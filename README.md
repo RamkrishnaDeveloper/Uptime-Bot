@@ -4,10 +4,9 @@
 
 ## Installation
 
-![Run on Repl.it](https://repl.it/badge/github/JarvisDevv/Uptimer-Buddy)
 - Create a bot in [Discord Developers](https://discord.com/developers/applications)
 - Import this repository using `git clone https://github.com/JarvisDevv/Uptimer-Buddy.git`
-- Editing your [config](https://github.com/JarvisDevv/Uptimer-Buddy/blob/main/Assets/Config/config.js) files
+- Editing your [config](https://github.com/RamkrishnaDeveloper/Uptime-Bot/blob/main/Assets/Config/config.js) files
 - Add your TOKEN bot put in `.env` files and put this code `TOKEN=YOURBOTTOKENFROMYOURDISCORDDEVELOPERS`
 - Install all package use `npm install`
 - Start a project use `npm start`
